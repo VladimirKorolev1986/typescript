@@ -1,0 +1,14 @@
+# JS-файлы, полученные из TS
+*.js
+*.js.map
+
+# Папки сборки
+/dist
+/build
+
+# Node.js зависимости
+node_modules/
+
+# Временные файлы IDE и системы
+.DS_Store
+.env
